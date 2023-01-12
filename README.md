@@ -1,7 +1,7 @@
-### Felix F. - Hi there 👋 
+### David Ayangunna. - Hi there 👋 
 
 <!--
-**bossfelfo/bossfelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kingisdave/kingisdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,23 +17,19 @@ Here are some ideas to get you started:
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a Frontend Developer\
-🔭 &nbsp;I’m currently working on [Onlytips Web App](https://github.com/OnlyTips-Dev)\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm on track for learning three.js\
-✍️ &nbsp;In my free time, I pursue Videograhy as a hobby/side hustles.\
+I'm a Fullstack Developer
+🔭 &nbsp;I’m working on an AI software for building and designing graphical templates(https://www.medillery.com)\
+💡 &nbsp;I like to explore new technologies and develop software solutions and to also train others.\
+🎓 &nbsp;I'm on track for learning web3 and python\
+⚡ &nbsp;I love to play drums, listen and mime to music in my freetime.\
+✍️ &nbsp;I'm a God lover, I love the word and I love humanity.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at bossfelfo@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.bossfelfo.com/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can contact me an email at davidoluwafemi081@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Js](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
