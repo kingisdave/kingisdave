@@ -29,16 +29,16 @@ I'm a Fullstack Developer
 ### 🛠 &nbsp;Tech Stack
 
 
-![Js](https://img.shields.io/badge/-Git-000?&logo=git)
-![Ts](https://img.shields.io/badge/-Git-000?&logo=Typescript)
+![Js](https://img.shields.io/badge/-JavaScript-000?&logo=git)
+![Ts](https://img.shields.io/badge/-TypeScript-000?&logo=Typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
-![Sequelize](https://img.shields.io/badge/-Git-000?&logo=sequelize)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Expo-000?&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
@@ -49,14 +49,14 @@ I'm a Fullstack Developer
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000?&logo=amazon-aws)
-![S3](https://img.shields.io/badge/-Ant%20Design-000?&logo=S3)
+![S3](https://img.shields.io/badge/-S3-000?&logo=S3)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
-![Vuetify](https://img.shields.io/badge/-Ant%20Design-000?&logo=Vuetify)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 <br />
 
