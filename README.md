@@ -24,7 +24,7 @@ I'm a Fullstack Developer
 ⚡ &nbsp;I love to play drums, listen and mime to music in my freetime.\
 ✍️ &nbsp;I'm a God lover, I love the word and I love humanity.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can contact me an email at davidoluwafemi081@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can contact me an email at isdavayan@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +38,7 @@ I'm a Fullstack Developer
 ![Sequelize](https://img.shields.io/badge/-Git-000?&logo=sequelize)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Expo-000?&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
@@ -49,14 +49,14 @@ I'm a Fullstack Developer
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000?&logo=amazon-aws)
-![S3](https://img.shields.io/badge/-Ant%20Design-000?&logo=S3)
+![S3](https://img.shields.io/badge/-S3-000?&logo=S3)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
-![Vuetify](https://img.shields.io/badge/-Ant%20Design-000?&logo=Vuetify)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 <br />
 
