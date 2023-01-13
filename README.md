@@ -24,7 +24,7 @@ I'm a Fullstack Developer
 ⚡ &nbsp;I love to play drums, listen and mime to music in my freetime.\
 ✍️ &nbsp;I'm a God lover, I love the word and I love humanity.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can contact me an email at davidoluwafemi081@gmail.com! I'll try to respond as soon as I can.\
+<!-- ✉️ &nbsp;You can contact me an email at davidoluwafemi081@gmail.com! I'll try to respond as soon as I can.\ -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +38,7 @@ I'm a Fullstack Developer
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![VueJs](https://img.shields.io/badge/-Vuejs-000?&logo=Vuejs)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
