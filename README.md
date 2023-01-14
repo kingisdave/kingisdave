@@ -43,6 +43,8 @@ I'm a Fullstack Developer
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Mongoose)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 ![Ionic](https://img.shields.io/badge/-Xcode-000?&logo=Ionic)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
