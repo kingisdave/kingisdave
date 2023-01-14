@@ -29,9 +29,12 @@ I'm a Fullstack Developer
 ### 🛠 &nbsp;Tech Stack
 
 
-![Js](https://img.shields.io/badge/-JavaScript-000?&logo=git)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Js](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![Ts](https://img.shields.io/badge/-TypeScript-000?&logo=Typescript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
