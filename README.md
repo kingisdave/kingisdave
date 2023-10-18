@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a Fullstack Developer
-🔭 &nbsp;I’m working on an AI software for building and designing graphical templates(https://www.medillery.com)\
+I'm a Fullstack Developer and also more proficient as a Frontend Developer.
+🔭 &nbsp;I worked on an AI software for building and designing graphical templates(https://www.medillery.com),currently on www.makemouth.com or makemouth.netlify.app
 💡 &nbsp;I like to explore new technologies and develop software solutions and to also train others.\
-🎓 &nbsp;I'm on track for learning web3 and python\
-⚡ &nbsp;I love to play drums, listen and mime to music in my freetime.\
-✍️ &nbsp;I'm a God lover, I love the word and I love humanity.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-<!-- ✉️ &nbsp;You can contact me an email at davidoluwafemi081@gmail.com! I'll try to respond as soon as I can.\ -->
+🎓 &nbsp;I'm on track for learning web3, python and in Java Spring
+⚡ &nbsp;I love to play drums, watch movies and listen to music in my freetime.\
+✍️ &nbsp;I love God, the word and humanity.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, freelancing or just for some interesting discussion.\
+<!-- ✉️ &nbsp;You can contact me an email at ayangunnadavid@gmail.com! I'll try to respond as soon as I can.\ -->
 
 ### 🛠 &nbsp;Tech Stack
 
